@@ -17,6 +17,7 @@ JQ：![](https://github.com/lidingkorol/carousel/raw/master/photo/QQ图片201608
 #####2丶\<div id='carousel'>标签的子标签请按上图所示设置
 #####3丶img标签轮播图片摆放参照上图123456，6张图片摆放方式61234561，7张图片摆放为712345671。
 #####4丶若图片张数发生变化，请在框架内相应增减<img>和<span>两个标签数量。
+#####5丶整个框架样式写在CSS中，若有需求可自行修改。
 ####三丶最后在html页面设置相关参数
 ![](https://github.com/lidingkorol/carousel/raw/master/photo/QQ图片20160802172809.png)
 #####1丶上图width:图片宽度；fast：图片切换速度；name：轮播图框架父级标签；time：轮播切换时间间隔；picture：图片张数
