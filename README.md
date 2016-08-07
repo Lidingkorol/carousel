@@ -56,15 +56,13 @@ JQ：
 	window.onload=function()
 	{
 	var plus=new Plug({
-		width:'400'   , 
-		fast:'100'  ,
-		name:'carousel',
-		time:'3',
-		picture:'6'
-		
-	  })
-
-}
+			width:'400'   , 
+			fast:'100'  ,
+			name:'carousel',
+			time:'3',
+			picture:'6'
+		})
+	}
 </script>
 ~~~
 #####1丶上图width:图片宽度；fast：图片切换速度；name：轮播图框架父级标签；time：轮播切换时间间隔；picture：图片张数
