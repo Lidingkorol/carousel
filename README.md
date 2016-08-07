@@ -66,7 +66,5 @@ JQ：
 </script>
 ~~~
 #####1丶上图width:图片宽度；fast：图片切换速度；name：轮播图框架父级标签；time：轮播切换时间间隔；picture：图片张数
-####四丶参数设置见index.js
-![](https://github.com/lidingkorol/calendar-/raw/master/photo/QQ图片20160802192652.png)
 
 #以上是readme所有内容
