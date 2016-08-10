@@ -56,7 +56,7 @@ span
    	  background:#F00;
 }
 
-a 
+#left,#right
 {
   position:absolute;
   z-index:2;
@@ -85,3 +85,14 @@ a:hover
   top:42%;
 }
 
+.jump
+{
+	cursor: pointer;
+	width:100%;
+	text-decoration: none;
+	font-weight: 600;
+	font-size: 24px;
+	margin:0 auto;
+	display: block;
+	text-align: center;
+}
