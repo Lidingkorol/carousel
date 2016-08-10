@@ -1,6 +1,7 @@
 carousel组件
 ======
 ###carousel组件简介：支持IE7以上及firefox，chrome浏览器
+###效果展示见：https://lidingkorol.github.io/carousel/
 ###carousel功能介绍：
 >
 1丶图片轮播
