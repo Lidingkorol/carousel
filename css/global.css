@@ -1,0 +1,87 @@
+@charset "utf-8";
+/* CSS Document */
+
+div
+{
+  margin:0 AUTO;
+  padding:0;
+  display:block;	
+}
+
+#carousel
+{
+  width:360px;
+  height:220px;
+  position:relative;
+  overflow:hidden;
+}
+#photo
+{
+  position:absolute;
+  height:222px;
+  width:5000px;
+  z-index:1;
+  	
+}
+#photo img
+{
+  float:left;	
+	
+}
+
+
+#button
+{
+   	width:72px;
+	height:12px;
+	position:absolute;
+	top:90%;
+	left:42%;
+	z-index:2;
+	
+}
+
+span
+{  
+  cursor: pointer;
+   float: left;
+    border: 1px solid #fff; 
+	width: 10px;
+	 height: 10px; 
+	 border-radius: 50%;
+	  background: #333;
+}
+.on
+{
+   	  background:#F00;
+}
+
+a 
+{
+  position:absolute;
+  z-index:2;
+  width:20px;
+  height:30px;	
+  background:#CCC;
+  opacity:0.5;
+  line-height:30px;
+  text-align:center;
+}
+a:hover
+{
+  opacity:1;
+  color:#F00;	
+}
+#left
+{
+  top:42%;
+  
+  	
+	
+}
+#right
+{
+  left:95%;	
+  top:42%;
+}
+
