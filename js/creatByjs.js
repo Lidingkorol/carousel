@@ -6,7 +6,6 @@
 * name:		轮播图纳入的DIV框架id（自行设定）
 * time:		轮播图时隔多久切换一次（单位：s）
 * picture	图片张数
-
 */
 //定义工具函数
 var Class = {
